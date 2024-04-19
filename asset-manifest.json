@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.aca7b4d6.css",
-    "main.js": "/static/js/main.d7078263.js",
-    "static/js/453.3e1c986a.chunk.js": "/static/js/453.3e1c986a.chunk.js",
-    "index.html": "/index.html",
-    "main.aca7b4d6.css.map": "/static/css/main.aca7b4d6.css.map",
-    "main.d7078263.js.map": "/static/js/main.d7078263.js.map",
-    "453.3e1c986a.chunk.js.map": "/static/js/453.3e1c986a.chunk.js.map"
+    "main.css": "/CobotInt/static/css/main.aca7b4d6.css",
+    "main.js": "/CobotInt/static/js/main.b88942af.js",
+    "static/js/453.3e1c986a.chunk.js": "/CobotInt/static/js/453.3e1c986a.chunk.js",
+    "index.html": "/CobotInt/index.html",
+    "main.aca7b4d6.css.map": "/CobotInt/static/css/main.aca7b4d6.css.map",
+    "main.b88942af.js.map": "/CobotInt/static/js/main.b88942af.js.map",
+    "453.3e1c986a.chunk.js.map": "/CobotInt/static/js/453.3e1c986a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aca7b4d6.css",
-    "static/js/main.d7078263.js"
+    "static/js/main.b88942af.js"
   ]
 }
